@@ -9,6 +9,7 @@ public class printArrays {
     }
 
     public static void main(String[] args) {
+        System.out.println("Welcome to the print array of different data types");
         Integer[] integerArray = {1, 2, 3, 4, 5, 6, 7};
         Double[] doubleArray = {1.1, 2.2, 3.3, 4.4, 5.5, 6.6, 7.7};
         Character[] characterArray = {'A', 'S', 'H', 'V', 'I', 'N', 'I'};
